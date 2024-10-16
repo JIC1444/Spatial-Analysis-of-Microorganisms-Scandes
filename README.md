@@ -19,14 +19,8 @@ The top row is the bacteria phyla, with the left image displaying all of the phy
 ![boxPlotBacteriaShannon](https://github.com/user-attachments/assets/f105f6e6-8caf-456d-85d0-8c34381631c9)
 
 
-## Figure 3: PCA plot of the log
-<img src="https://github.com/user-attachments/assets/774d11c0-dd17-47df-834a-ea2716bf708c" width="50%" height="50%">
 
-
-
-
-
-## Figure 4: Linear regression of and
+## Figure 3: Linear regression of and
 ![predVsActBacilliAbundance](https://github.com/user-attachments/assets/db4a3997-8f3a-47ab-9f76-ff4cc93ad671)
 ![predVsActAlphaAbundance](https://github.com/user-attachments/assets/75f288fa-2bc2-4bb3-9012-b65775d9f7d0)
 
